@@ -1,6 +1,6 @@
-# Awesome Monero List
+# Monero cl-LTR
 
-A curated list of awesome Monero libraries, tools, and resources.
+A curated list of Monero libraries, tools, and resources.
 
 ## Contents
 
